@@ -1,0 +1,12 @@
+.complete{text-decoration:line-through}.parent-div{border:1px solid #ddd;display:table;min-width:200px;margin:auto;background:#fff;text-align:left;margin-top:2px;padding:10px}.parent-div>label{font-size:14px;font-weight:bold}
+
+.custom-input{padding:10px;outline:none;border:1px solid #DDD;border-radius:3px;display:block;margin:auto;margin-top:5px}
+
+.btn{color:#111;background:#FFF;display:inline-block;border-radius:3px;font-weight:bold;margin:auto;padding:10px;cursor:pointer;user-select:none;margin-right:5px;margin-top:5px;font-size:12px;border:1px solid #ddd}.btn:hover{background:#F3F3F3}.primary{background:#34495e;color:#fff;border:none}.primary:hover{background:#2c3e50}.danger{background:#e74c3c;color:#fff;border:none}.danger:hover{background:#c0392b}.success{background:#2ecc71;color:#FFF;border:none}.success:hover{background:#27ae60}
+
+.spinner{margin:100px auto;width:40px;height:40px;position:relative;text-align:center;-webkit-animation:sk-rotate 2.0s infinite linear;animation:sk-rotate 2.0s infinite linear}.dot1,.dot2{width:60%;height:60%;display:inline-block;position:absolute;top:0;background-color:#111;border-radius:100%;-webkit-animation:sk-bounce 2.0s infinite ease-in-out;animation:sk-bounce 2.0s infinite ease-in-out}.dot2{top:auto;bottom:0;-webkit-animation-delay:-1.0s;animation-delay:-1.0s}@-webkit-keyframes sk-rotate{100%{-webkit-transform:rotate(360deg)}}@keyframes sk-rotate{100%{transform:rotate(360deg);-webkit-transform:rotate(360deg)}}@-webkit-keyframes sk-bounce{0%,100%{-webkit-transform:scale(0)}50%{-webkit-transform:scale(1)}}@keyframes sk-bounce{0%,100%{transform:scale(0);-webkit-transform:scale(0)}50%{transform:scale(1);-webkit-transform:scale(1)}}
+
+body{font-family:'Comfortaa';background:#f3f3f3;color:#111;text-align:center}
+
+
+/*# sourceMappingURL=style.css.map*/
